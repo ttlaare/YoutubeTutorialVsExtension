@@ -10,6 +10,7 @@ namespace Youtube_Tutorial_VS_ex
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Example from video");
         }
     }
 }
